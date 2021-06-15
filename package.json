@@ -1,0 +1,14 @@
+{
+  "name": "lavalink-server",
+  "version": "1.0.0",
+  "main": "msv.js",
+  "author": "Just-Msv",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "got": "^11.8.1"
+  },
+  "scripts": {
+   "start": "bash start.sh"
+  }
+}
