@@ -11,7 +11,7 @@
 - And Make Sure Your Replit username and replit project is same
 - And Just Run the Terminal 
 - To keep this 24/7 you need to make an account on UptimeRobot service or You Have The Hacker Plan Turn The Always On Button, and make HTTP request to your app every 5 minutes.
-- For example, if your app is named `lavalink-replit` and your repl username is `msv` then make HTTP request to `https://lavalink-repl.msv.repl.co`
+- For example, if your app is named `lavalink-replit` and your repl username is `msv` then make HTTP request to `https://lavalink-replit.msv.repl.co`
 - Now You Lavalink Server Is Ready
 - The `LAVA_HOST` is Your `Repl Name` , `LAVA_PORT` and `LAVA_PASS` you can Get in `application.yml`
 
