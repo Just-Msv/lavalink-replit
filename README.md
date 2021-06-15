@@ -6,6 +6,7 @@
 
 #  Installation
 
+[![Run on Repl.it](https://repl.it/badge/github/Just-Msv/lavalink-replit)](https://repl.it/githu/Just-Msv/lavalink-replit)
 - By clicking on the `Fork` you will have to create an account on repl.it Or You Can Directly Get Into It
 - Once created the account you will go in and choose your password/port for the lavalink server. `application.yml`
 - And Make Sure Your Replit username and replit project is same
